@@ -5,7 +5,7 @@
 
 ## Instructions
 
-Install dependecnies
+Install dependencies
 ```
 npm i
 ```
