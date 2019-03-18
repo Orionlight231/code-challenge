@@ -1,0 +1,15 @@
+{
+  "name": "sos-challenge",
+  "version": "1.0.0",
+  "description": "Code challenge",
+  "main": "sendHelp.js",
+  "scripts": {
+    "test": "tape test.js | tap-spec 'npm test'"
+  },
+  "author": "Alberto De Stefani",
+  "license": "ISC",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.8.0"
+  }
+}
